@@ -151,6 +151,9 @@ body {
   }
 }
 @media screen and (max-width: 500px) {
+  .container {
+    height: 800px;
+  }
   .text-container {
     width: 350px;
   }
@@ -165,16 +168,12 @@ body {
 
   .card2 {
     margin-top: 0;
-    margin-bottom: 15%;
   }
   .card4 {
     margin-top: 0;
   }
 }
 @media screen and (max-width: 376px) {
-  .container {
-    height: 800px;
-  }
   .text-container p {
     line-height: 15px;
   }
