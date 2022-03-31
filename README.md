@@ -21,6 +21,8 @@ Users should be able to:
 - View the optimal layout for the site depending on their device's screen size
 
 ### Screenshot
+![FireShot Capture 010 - Frontend Mentor - Four card feature section - happycloud250 github io](https://user-images.githubusercontent.com/72793369/161108369-a60e6f4a-5cf9-4221-aaad-13f6e8d9e1b3.jpg)
+![FireShot Capture 012 - Frontend Mentor - Four card feature section - 127 0 0 1](https://user-images.githubusercontent.com/72793369/161109197-30e7a5f7-0f54-4b0e-a289-603338636482.jpg)
 
 ### Links
 
