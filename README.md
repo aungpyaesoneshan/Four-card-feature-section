@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/Happycloud250/Four-card-feature-section]
-- Live Site URL: [https://happycloud250.github.io/Four-card-feature-section/]
+- Solution URL: [https://github.com/aungpyaesoneshan/Four-card-feature-section]
+- Live Site URL: [https://aungpyaesoneshan.github.io/Four-card-feature-section/]
 
 ## My process
 
